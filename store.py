@@ -1,4 +1,7 @@
 publi class store
 {
-print "yashwanth"
+  publi static void main(String args[])
+  {
+   int a=10
+  }
 }
