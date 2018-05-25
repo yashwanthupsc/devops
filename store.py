@@ -2,7 +2,7 @@ publi class store
 {
   publi static void main(String args[])
   {
-   int a=20
+   int a=200
    str name='yashwanth'
   }
 }
