@@ -4,5 +4,6 @@ publi class store
   {
    int a=17
    str name='yashwanth'
+   float value=2.3
   }
 }
