@@ -1,1 +1,1 @@
-sfkj
+print "Hello"
